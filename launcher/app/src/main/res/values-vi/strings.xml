@@ -14,6 +14,7 @@
     <string name="good_morning">Xin chào</string>
     <string name="good_afternoon">Xin chào</string>
     <string name="good_evening">Xin chào</string>
+    <string name="good_forenoon">Xin chào</string>
     <string name="good_night">Xin chào</string>
     <string name="ethernet">Ethernet</string>
     <string name="offline">Mất mạng</string>
@@ -21,6 +22,18 @@
     <string name="cant_open">Không mở được %1$s</string>
     <!-- "Thứ Hai, 20 tháng 10" -->
     <string name="date_format">EEEE, d MMMM</string>
+    <string name="shamsi_month_farvardin">Farvardin</string>
+    <string name="shamsi_month_ordibehesht">Ordibehesht</string>
+    <string name="shamsi_month_khordad">Khordad</string>
+    <string name="shamsi_month_tir">Tir</string>
+    <string name="shamsi_month_mordad">Mordad</string>
+    <string name="shamsi_month_shahrivar">Shahrivar</string>
+    <string name="shamsi_month_mehr">Mehr</string>
+    <string name="shamsi_month_aban">Aban</string>
+    <string name="shamsi_month_azar">Azar</string>
+    <string name="shamsi_month_dey">Dey</string>
+    <string name="shamsi_month_bahman">Bahman</string>
+    <string name="shamsi_month_esfand">Esfand</string>
     <string name="dream_name">Đồng hồ</string>
     <string name="vpn">VPN</string>
     <string name="vpn_off">VPN tắt</string>
@@ -77,8 +90,11 @@
     <string name="dock_edit_pick_place">Chọn vị trí trên dock cho ứng dụng này rồi nhấn OK. Nhấn Quay lại để hủy.</string>
     <string name="festival_dussehra_greeting">Chúc mừng lễ Dussehra</string>
     <string name="festival_diwali_greeting">Chúc mừng lễ Diwali</string>
+    <string name="stats_cpu">CPU %1$d%%</string>
     <string name="stats_memory">Bộ nhớ %1$d / %2$d MB</string>
     <string name="stats_storage">Còn trống %1$s</string>
+    <string name="storage_gb_whole">%1$.0f GB</string>
+    <string name="storage_gb_decimal">%1$.1f GB</string>
     <string name="rows_below_dock_label">Số hàng dưới dock</string>
     <string name="wallpaper_label">Hình nền</string>
     <string name="wallpaper_state">Hình nền: %1$s</string>
@@ -112,8 +128,16 @@
     <string name="race_practice_2">Chạy thử 2</string>
     <string name="race_practice_3">Chạy thử 3</string>
     <string name="race_sprint_qualifying">Phân hạng sprint</string>
+    <string name="race_sprint">Sprint</string>
     <string name="race_qualifying">Phân hạng</string>
     <string name="race_race">Đua chính</string>
+    <string name="race_practice_1_short">FP1</string>
+    <string name="race_practice_2_short">FP2</string>
+    <string name="race_practice_3_short">FP3</string>
+    <string name="race_sprint_qualifying_short">SQ</string>
+    <string name="race_sprint_short">SPRINT</string>
+    <string name="race_qualifying_short">PHÂN HẠNG</string>
+    <string name="race_race_short">ĐUA CHÍNH</string>
     <string name="race_countdown_minutes">%1$d phút</string>
     <string name="race_countdown_hours">%1$d giờ %2$d phút</string>
     <string name="race_countdown_days">%1$d ngày %2$d giờ</string>
